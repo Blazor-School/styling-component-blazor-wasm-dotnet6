@@ -1,0 +1,4 @@
+﻿.external-style::after
+{
+    content: "This is an external style";
+}

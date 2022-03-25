@@ -1,0 +1,4 @@
+﻿.global-style::after
+{
+    content: "Isolated style.";
+}

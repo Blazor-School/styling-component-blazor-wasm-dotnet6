@@ -1,0 +1,4 @@
+﻿.overriding ::deep .content::after
+{
+    content: "This style is overrided."
+}

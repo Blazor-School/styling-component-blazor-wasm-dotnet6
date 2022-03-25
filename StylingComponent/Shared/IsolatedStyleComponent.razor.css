@@ -1,0 +1,4 @@
+﻿.content::after
+{
+    content: "This style is from IsolatedStyleComponent.razor.";
+}
